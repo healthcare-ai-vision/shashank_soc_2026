@@ -4,7 +4,7 @@
 Train an object detection model that can automatically identify and localize
 blood cells in microscope images — Red Blood Cells (RBC), White Blood Cells (WBC),
 and Platelets — as a step toward automated blood sample analysis for the
-AI for Healthcare project (Summer of Code, IIT Bombay).
+AI for Healthcare project.
 
 ## Why this dataset / problem
 Manual blood cell counting under a microscope is slow and prone to human error.
